@@ -1,0 +1,4 @@
+# Berisi data jemaat (nama pengguna, buletin PDF) — unggah manual, jangan masuk repositori
+migration/data-awal.json
+*.zip
+.DS_Store
